@@ -1,1 +1,1 @@
-# Tejas
+simple calculator
